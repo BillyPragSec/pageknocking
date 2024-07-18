@@ -1,0 +1,17 @@
+{
+    "APP": "Wordpress",
+    "TOKEN_UNAME": "log",
+    "TOKEN_SSID": "wordpress_logged_in",
+    "LOGOUT_ELEMENT": "a[href*=\"/wp-login.php?action=logout\"]",
+    "LOGOUT_PATH": "",
+    "PWDS": [
+        "password",
+        "pass",
+        "pwd",
+        "passwd"
+    ],
+    "DB_CONN": "mysql://pageknocks:pageknocks@db:3306/pageknocks",
+    "LOG_FILE": "/app/logs/revproxy.log",
+    "TIMEZONE": "US/Eastern",
+    "LOGIN_PATH": "/wp-login.php/"
+}

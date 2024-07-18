@@ -1,0 +1,9 @@
+user,id,user_id,knock_sequence,whitelist
+admin,1,99,"['http://proxy_address_to_change/?p=172', 'http://proxy_address_to_change/?attachment_id=180']",
+user2,2,2,['http://proxy_address_to_change/?p=129'],
+user3,3,3,"['http://proxy_address_to_change/?p=139', 'http://proxy_address_to_change/?attachment_id=201', 'http://proxy_address_to_change/?attachment_id=11', 'http://proxy_address_to_change/?author=1&paged=2', 'http://proxy_address_to_change/?attachment_id=214', 'http://proxy_address_to_change/?attachment_id=23', 'http://proxy_address_to_change/?p=85', 'http://proxy_address_to_change/?p=53']",
+user4,4,4,"['http://proxy_address_to_change/?p=129', 'http://proxy_address_to_change/?attachment_id=106', 'http://proxy_address_to_change/?p=1&replytocom=1']",
+user5,5,5,"['http://proxy_address_to_change/?attachment_id=44', 'http://proxy_address_to_change/?attachment_id=161', 'http://proxy_address_to_change/?attachment_id=6', 'http://proxy_address_to_change/?p=306', 'http://proxy_address_to_change/?p=84', 'http://proxy_address_to_change/?attachment_id=144', 'http://proxy_address_to_change/?p=151']",
+user6,6,6,"['http://proxy_address_to_change/?author=1&paged=2', 'http://proxy_address_to_change/?cat=13', 'http://proxy_address_to_change/?p=139', 'http://proxy_address_to_change', 'http://proxy_address_to_change/?attachment_id=144', 'http://proxy_address_to_change/?p=1']",
+user7,7,7,"['http://proxy_address_to_change/?attachment_id=162', 'http://proxy_address_to_change/?author=1', 'http://proxy_address_to_change/?cat=5']",
+user8,8,8,"['http://proxy_address_to_change/?cat=6', 'http://proxy_address_to_change/?cat=14', 'http://proxy_address_to_change/?p=70', 'http://proxy_address_to_change/?p=154', 'http://proxy_address_to_change/?attachment_id=164']",

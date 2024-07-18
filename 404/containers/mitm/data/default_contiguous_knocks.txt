@@ -1,0 +1,10 @@
+user,id,user_id,knock_sequence,whitelist
+user0,1,99,['http://proxy_address_to_change/?cat=6'],
+user1,2,98,"['http://proxy_address_to_change/?page_id=183', 'http://proxy_address_to_change/?p=40', 'http://proxy_address_to_change/?p=117']",
+user2,3,97,"['http://proxy_address_to_change/?p=108', 'http://proxy_address_to_change/?p=129', 'http://proxy_address_to_change/?p=139', 'http://proxy_address_to_change/?cat=9', 'http://proxy_address_to_change/?p=129']",
+user3,4,96,['http://proxy_address_to_change/?p=114'],
+user4,5,95,"['http://proxy_address_to_change/?p=129', 'http://proxy_address_to_change/?cat=11', 'http://proxy_address_to_change/?cat=15']",
+user5,6,94,"['http://proxy_address_to_change/?page_id=185', 'http://proxy_address_to_change/?p=83', 'http://proxy_address_to_change', 'http://proxy_address_to_change/?cat=3', 'http://proxy_address_to_change/?p=111']",
+user6,7,93,['http://proxy_address_to_change/?page_id=183'],
+user7,8,92,"['http://proxy_address_to_change', 'http://proxy_address_to_change/?p=70', 'http://proxy_address_to_change/?cat=11']",
+user8,9,91,"['http://proxy_address_to_change/?page_id=183', 'http://proxy_address_to_change/?cat=18', 'http://proxy_address_to_change/?p=66', 'http://proxy_address_to_change/?p=26', 'http://proxy_address_to_change/']",

@@ -1,0 +1,61 @@
+{
+    "APP": "Wordpress",
+    "TOKEN_UNAME": "log",
+    "TOKEN_SSID": "wordpress_logged_in",
+    "LOGOUT_ELEMENT": "a[href*=\"/wp-login.php?action=logout]\"",
+    "LOGOUT_PATH": "",
+    "PWDS": [
+        "password",
+        "pass",
+        "pwd",
+        "passwd"
+    ],
+    "DB": {
+        "SERVER": "mysql://pageknocks:pageknocks@db:3306",
+        "DATABASE": "pageknocks"
+    },
+    "LOG_FILE": "/app/logs/revproxy.log",
+    "TIMEZONE": "US/Eastern",
+    "LOGIN_PATH": "/wp-login.php/",
+    "SPOOF_PASSWD": "spoof_password_to_change",
+    "AUTO_CREATE_HIDDEN_FORM_FIELDS": true,
+    "HIDDEN_FORM_FIELD_PREFIX": "wp-",
+    "DOMAIN": "proxy_address_to_change",
+    "WHITELISTED": {
+        "/wp-admin/admin-ajax.php": [
+            "action",
+            "widget",
+            "pagenow"
+        ],
+        "/favicon.ico": [],
+        "/wp-includes/js/thickbox/loadingAnimation.gif": []
+    },
+    "WHITELISTED_FILE_EXT": [
+        ".css",
+        ".js",
+        ".ico",
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif"
+    ],
+    "WHITELISTED_QUERY_KEY": [],
+    "BLACKLISTED": [
+        "/wp-admin/post-new.php"
+    ],
+    "FOLLOWUP_TIMEOUT": 10,
+    "FOLLOWUP_SCRAPE_TAGS": [
+        "iframe",
+        "object",
+        "img",
+        "picture",
+        "embed",
+        "link",
+        "script",
+        "audio",
+        "video",
+        "track",
+        "source",
+        "style"
+    ]
+}
