@@ -26,3 +26,14 @@ We note that this work functions as a continuation of the prior work carried out
     - `mitm_base/` - the base image for `mitmproxy` with dependencies (should only need to be built once)
     - `shared/` - code used by both the containers for `creation/` and `mitm/` (e.g., database modeling, utilities, etc.)
     - `wordpress/` - example app that can be deployed with `docker-compose`
+
+## Citation
+```
+     @article{tsouvalas2024knocking,
+        author    = {Tsouvalas, Billy and Nikiforakis, Nick},
+        title     = {Knocking on Admin's Door: Protecting Critical Web Applications with Deception},
+        journal   = {International Conference on Detection of Intrusions and Malware, and Vulnerability
+			Assessment (DIMVA)},
+        year      = {2024}
+    }
+```
